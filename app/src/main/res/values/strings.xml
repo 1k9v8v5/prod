@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Prod</string>
+	<string name="empty">Empty</string>
+	<string name ="del_record">удалить</string>
+	<string name ="add_record">добавить</string>
+
+</resources>
